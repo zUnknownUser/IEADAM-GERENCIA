@@ -1,0 +1,13 @@
+Licença de Uso - Sistema de Gerenciamento de Caixa IEADAM
+
+Copyright (c) 2023 Igreja Evangélica Assembleia de Deus no Amazonas (IEADAM)
+
+Este software e sua documentação associada são de propriedade exclusiva da Igreja Evangélica Assembleia de Deus no Amazonas (IEADAM).
+
+Permissão de uso é concedida apenas para a IEADAM e suas filiais. Qualquer uso, cópia, modificação ou distribuição deste software fora do âmbito da IEADAM é estritamente proibido sem autorização prévia por escrito.
+
+Este software é fornecido "como está", sem garantias de qualquer tipo. Em nenhum caso os autores ou detentores dos direitos autorais serão responsáveis por quaisquer reclamações, danos ou outras responsabilidades decorrentes do uso deste software.
+
+Para questões relacionadas a esta licença, entre em contato com:
+Lucas Amorim: lucasamorim78c@gmail.com
+Fhellipe Cabral: fhellipeasd123@gmail.com
